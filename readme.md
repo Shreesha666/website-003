@@ -42,17 +42,3 @@ or
 
 This is my second independent project creating a Responsive Restaurant Website using HTML, CSS, Bootstrap and Javascript.
 
-
-## 🤝 Contributing 
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](/issues).
-
-## ⭐️ Show your support 
-
-Give a ⭐️ if you like this project!
-
-
-## 📝 License
-
-
-MIT (c) [Keerti](https://github.com/keerti1924) 
